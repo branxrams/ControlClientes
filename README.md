@@ -1,5 +1,7 @@
 # React + Vite
 
+This proyect has created with library bases react-router-dom, and json-server for fake API
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
